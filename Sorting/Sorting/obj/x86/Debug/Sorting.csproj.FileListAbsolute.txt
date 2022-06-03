@@ -1,0 +1,12 @@
+c:\users\hdmi\documents\visual studio 2010\Projects\Sorting\Sorting\bin\Debug\Sorting.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\Sorting\Sorting\bin\Debug\Sorting.pdb
+c:\users\hdmi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\Sorting.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\Sorting.pdb
+C:\Users\HDMI\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\Sorting.csprojResolveAssemblyReference.cache
+F:\Archift\Projects\Sorting\Sorting\obj\x86\Debug\Sorting.exe
+F:\Archift\Projects\Sorting\Sorting\obj\x86\Debug\Sorting.pdb
+F:\Archift\Projects\Sorting\Sorting\bin\Debug\Sorting.exe
+F:\Archift\Projects\Sorting\Sorting\bin\Debug\Sorting.pdb
+F:\Archift\Projects\Sorting\Sorting\obj\x86\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\good6\Sorting\Sorting\obj\x86\Debug\Sorting.exe
+C:\good6\Sorting\Sorting\obj\x86\Debug\Sorting.pdb
